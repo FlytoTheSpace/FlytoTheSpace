@@ -1,4 +1,6 @@
-![banner](banner.svg)
+
+<img src="./banner.png" alt="banner" style="width: 100%; height: 20vh; object-fit: cover; object-position: center;">
+
 ### Hi there 👋
 
 ## My Skills:
