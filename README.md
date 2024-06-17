@@ -10,4 +10,4 @@
 ### Markup Languages:
 ![HTML, CSS](https://skillicons.dev/icons?i=html,css&theme=dark)
 ### Other Skills:
-![Linux, Windows, Ubuntu, Express.js, MongoDB, Nginx, Git](https://skillicons.dev/icons?i=linux,windows,ubuntu,express,mongodb,nginx,git&theme=dark)
+![Linux, Windows, Ubuntu, Docker, Express.js, MongoDB, Nginx, Git](https://skillicons.dev/icons?i=linux,windows,ubuntu,docker,express,mongodb,nginx,git&theme=dark)
