@@ -7,7 +7,7 @@ Hi, I'm FlytoTheSpace and I'm a Programmer (yeah that's basically it)
 ### Programming Languages:
 ![JavaScript, Nodejs, Python, TypeScript, BASH](https://skillicons.dev/icons?i=js,nodejs,python,ts,bash&theme=dark)
 ### Markup:
-![HTML, CSS](https://skillicons.dev/icons?i=html,css&theme=dark)
+![HTML, CSS](https://skillicons.dev/icons?i=html,css,md&theme=dark)
 ### Databases
 ![](https://skillicons.dev/icons?i=mongodb,redis,mysql&theme=dark)
 ### Other Skills:
