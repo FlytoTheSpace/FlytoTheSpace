@@ -21,6 +21,7 @@ Hacking Tools & Skills:
 [![codepen.io/flytothespace](https://skillicons.dev/icons?i=codepen&theme=dark)](https://codepen.io/flytothespace)
 [![twitter.com/flyintothespace](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/flyintothespace)
 [![stackoverflow.com/users/22801942/flytothespace](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/users/22801942/flytothespace)
+[![replit.com/@FlytoTheSpace](https://skillicons.dev/icons?i=replit&theme=dark)](https://replit.com/@FlytoTheSpace)
 
 Public Key:
 
