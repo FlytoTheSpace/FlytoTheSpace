@@ -8,12 +8,13 @@ Hi, I'm FlytoTheSpace and I'm a Programmer (yeah that's basically it, and kind o
 ![](https://skillicons.dev/icons?i=js,nodejs,python,ts,bash&theme=dark)
 ### Markup:
 ![](https://skillicons.dev/icons?i=html,css,md,bootstrap&theme=dark)
-### Databases
+### Databases:
 ![](https://skillicons.dev/icons?i=mongodb,redis,mysql&theme=dark)
 ### Other Skills:
-![](https://skillicons.dev/icons?i=docker,express,nginx,git,ps,linux,windows,kali,ubuntu&theme=dark)
-
-Hacking Tools & Skills:
+![](https://skillicons.dev/icons?i=docker,express,nginx,git,ps&theme=dark)
+### OS:
+![](https://skillicons.dev/icons?i=linux,windows,debian,kali,ubuntu,mint&theme=dark)
+### Hacking Tools & Skills:
 
 **Subnetting**, **Nmap**, **Gobuster**, **Hashcat**, **Hydra**, **Burp Suite**, **Metasploit Console**
 
