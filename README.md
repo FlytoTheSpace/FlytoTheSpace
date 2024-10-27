@@ -10,7 +10,7 @@ Hi, I'm FlytoTheSpace and I'm a Programmer (yeah that's basically it, and kind o
 #### DataBase
 ![](https://skillicons.dev/icons?i=mongodb,redis,mysql&theme=dark)
 #### Other
-![](https://skillicons.dev/icons?i=docker,express,nginx,git&theme=dark)
+![](https://skillicons.dev/icons?i=docker,expressgit&theme=dark)
 
 ## Network
 [![codepen.io/flytothespace](https://skillicons.dev/icons?i=codepen&theme=dark)](https://codepen.io/flytothespace)
