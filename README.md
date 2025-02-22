@@ -4,7 +4,7 @@
 Hi, I'm FlytoTheSpace and I'm a Programmer (yeah that's basically it, and kind of weird name is it?)
 ## My Skills:
 #### Programming
-![](https://skillicons.dev/icons?i=c,ts,nodejs,python,bash&theme=dark)
+![](https://skillicons.dev/icons?i=c,cpp,ts,nodejs,python,bash&theme=dark)
 #### Markup
 ![](https://skillicons.dev/icons?i=vue,htmx,bootstrap,md&theme=dark)
 #### DataBase
